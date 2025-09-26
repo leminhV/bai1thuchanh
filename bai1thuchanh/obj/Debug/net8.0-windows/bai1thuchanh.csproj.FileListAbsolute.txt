@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\bai1thuchanh\bin\Debug\net8.0-windows\bai1thuchanh.exe
+C:\Users\Admin\source\repos\bai1thuchanh\bin\Debug\net8.0-windows\bai1thuchanh.deps.json
+C:\Users\Admin\source\repos\bai1thuchanh\bin\Debug\net8.0-windows\bai1thuchanh.runtimeconfig.json
+C:\Users\Admin\source\repos\bai1thuchanh\bin\Debug\net8.0-windows\bai1thuchanh.dll
+C:\Users\Admin\source\repos\bai1thuchanh\bin\Debug\net8.0-windows\bai1thuchanh.pdb
+C:\Users\Admin\source\repos\bai1thuchanh\obj\Debug\net8.0-windows\bai1thuchanh.Form1.resources
+C:\Users\Admin\source\repos\bai1thuchanh\obj\Debug\net8.0-windows\bai1thuchanh.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\bai1thuchanh\obj\Debug\net8.0-windows\bai1thuchanh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\bai1thuchanh\obj\Debug\net8.0-windows\bai1thuchanh.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\bai1thuchanh\obj\Debug\net8.0-windows\bai1thuchanh.AssemblyInfo.cs
+C:\Users\Admin\source\repos\bai1thuchanh\obj\Debug\net8.0-windows\bai1thuchanh.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\bai1thuchanh\obj\Debug\net8.0-windows\bai1thuchanh.dll
+C:\Users\Admin\source\repos\bai1thuchanh\obj\Debug\net8.0-windows\refint\bai1thuchanh.dll
+C:\Users\Admin\source\repos\bai1thuchanh\obj\Debug\net8.0-windows\bai1thuchanh.pdb
+C:\Users\Admin\source\repos\bai1thuchanh\obj\Debug\net8.0-windows\bai1thuchanh.genruntimeconfig.cache
+C:\Users\Admin\source\repos\bai1thuchanh\obj\Debug\net8.0-windows\ref\bai1thuchanh.dll
